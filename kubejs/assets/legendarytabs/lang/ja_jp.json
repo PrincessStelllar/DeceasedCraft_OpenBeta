@@ -1,0 +1,15 @@
+{
+  "tooltip.legendarytabs.tab.backpack.description": "バックパック",
+  "tooltip.legendarytabs.tab.body_damage.description": "体力",
+  "tooltip.legendarytabs.tab.ftb_quests.description": "クエスト",
+  "tooltip.legendarytabs.tab.ftb_teams.description": "チーム",
+  "tooltip.legendarytabs.tab.inventory.description": "インベントリ",
+  "tooltip.legendarytabs.tab.reskillable.description": "スキル",
+  "tooltip.legendarytabs.tab.reskillable_reimagined.description": "スキル",
+  "tooltip.legendarytabs.tab.map_atlases.description": "マップ",
+  "tooltip.legendarytabs.tab.xaeros_map.description": "マップ",
+  "tooltip.legendarytabs.tab.journey_map.description": "マップ",
+  "tooltip.legendarytabs.tab.diet.description": "食事",
+  "tooltip.legendarytabs.tab.passive_skill_tree.description": "スキルツリー",
+  "tooltip.legendarytabs.tab.pufferfish_skills.description": "スキルツリー"
+}
