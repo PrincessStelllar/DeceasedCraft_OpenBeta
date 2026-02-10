@@ -1,0 +1,34 @@
+{
+  "creativetab.item_scrapper": "アイテム分解",
+
+  "block.item_scrapper.scrapper_block": "アイテム分解台",
+
+  "item.item_scrapper.scrapping_hammer": "分解ハンマー",
+
+  "key.item_scrapper.place_item": "分解台にアイテムを置く",
+  "key.categories.item_scrapper": "アイテム分解",
+
+  "tooltip.item_scrapper.scrappable": "⚒ 分解可能",
+  "tooltip.item_scrapper.required_hits": "必要ヒット数：%s",
+  "tooltip.item_scrapper.explosion_chance": "⚠ 爆発確率：%s%%",
+  "tooltip.item_scrapper.durability_multiplier": "↔ 耐久値が結果に影響",
+  "tooltip.item_scrapper.return_amount": "回収率：%s%% ～ %s%%",
+
+  "item_scrapper.config.title": "アイテム分解 設定",
+  "item_scrapper.config.max_input_items": "表示する入力アイテム数： ",
+  "item_scrapper.config.max_output_items": "表示する出力アイテム数： ",
+  "item_scrapper.config.show_scrappable": "分解可能表示を有効化",
+  "item_scrapper.config.show_hits": "必要ヒット数を表示",
+  "item_scrapper.config.show_return": "回収率を表示",
+  "item_scrapper.config.show_explosion": "爆発確率を表示",
+  "item_scrapper.config.show_durability": "耐久値情報を表示",
+
+  "jei.item_scrapper.scrapping": "アイテム分解",
+  "jei.item_scrapper.category.scrapping": "アイテム分解",
+  "jei.item_scrapper.recipe.hits_required": "必要ヒット数：%s",
+  "jei.item_scrapper.recipe.return_range": "回収率：%s～%s%%",
+  "jei.item_scrapper.recipe.explosion_chance": "爆発リスク：%s%%",
+  "jei.item_scrapper.recipe.durability_multiplier": "耐久値が出力に影響",
+  "jei.item_scrapper.tooltip.uncertain_output": "実際の出力は変動します",
+  "jei.item_scrapper.scrappable.tooltip": "分解可能なアイテム"
+}
