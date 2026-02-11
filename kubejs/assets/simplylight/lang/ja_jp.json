@@ -1,0 +1,167 @@
+{
+  "block.simplylight.edge_light": "動的エッジライト（下）",
+  "block.simplylight.edge_light.info": "周囲の壁に沿って配置され、",
+  "block.simplylight.edge_light.info2": "通路に最適です。",
+  "block.simplylight.edge_light.jei.info": "設置時に周囲のブロックに応じて形状が変化します。\n設置後は形状が固定され、一時的なブロックを使って特定の形を作ることができます。",
+
+  "block.simplylight.edge_light_top": "動的エッジライト（上）",
+  "block.simplylight.edge_light_top.info": "周囲の壁に沿って配置され、",
+  "block.simplylight.edge_light_top.info2": "通路に最適です。",
+  "block.simplylight.edge_light_top.jei.info": "設置時に周囲のブロックに応じて形状が変化します。\n設置後は形状が固定され、一時的なブロックを使って特定の形を作ることができます。",
+
+  "block.simplylight.illuminant_black_block": "黒色発光ブロック",
+  "block.simplylight.illuminant_black_block.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_black_block.info2": "%sで点灯します。",
+
+  "block.simplylight.illuminant_black_block_on": "黒色発光ブロック（反転）",
+  "block.simplylight.illuminant_black_block_on.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_black_block_on.info2": "%sで消灯します。",
+
+  "block.simplylight.illuminant_block": "発光ブロック",
+  "block.simplylight.illuminant_block.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_block.info2": "%sで点灯します。",
+
+  "block.simplylight.illuminant_block_on": "発光ブロック（反転）",
+  "block.simplylight.illuminant_block_on.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_block_on.info2": "%sで消灯します。",
+
+  "block.simplylight.illuminant_blue_block": "青色発光ブロック",
+  "block.simplylight.illuminant_blue_block.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_blue_block.info2": "%sで点灯します。",
+
+  "block.simplylight.illuminant_blue_block_on": "青色発光ブロック（反転）",
+  "block.simplylight.illuminant_blue_block_on.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_blue_block_on.info2": "%sで消灯します。",
+
+  "block.simplylight.illuminant_brown_block": "茶色発光ブロック",
+  "block.simplylight.illuminant_brown_block.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_brown_block.info2": "%sで点灯します。",
+
+  "block.simplylight.illuminant_brown_block_on": "茶色発光ブロック（反転）",
+  "block.simplylight.illuminant_brown_block_on.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_brown_block_on.info2": "%sで消灯します。",
+
+  "block.simplylight.illuminant_cyan_block": "水色発光ブロック",
+  "block.simplylight.illuminant_cyan_block.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_cyan_block.info2": "%sで点灯します。",
+
+  "block.simplylight.illuminant_cyan_block_on": "水色発光ブロック（反転）",
+  "block.simplylight.illuminant_cyan_block_on.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_cyan_block_on.info2": "%sで消灯します。",
+
+  "block.simplylight.illuminant_gray_block": "灰色発光ブロック",
+  "block.simplylight.illuminant_gray_block.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_gray_block.info2": "%sで点灯します。",
+
+  "block.simplylight.illuminant_gray_block_on": "灰色発光ブロック（反転）",
+  "block.simplylight.illuminant_gray_block_on.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_gray_block_on.info2": "%sで消灯します。",
+
+  "block.simplylight.illuminant_green_block": "緑色発光ブロック",
+  "block.simplylight.illuminant_green_block.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_green_block.info2": "%sで点灯します。",
+
+  "block.simplylight.illuminant_green_block_on": "緑色発光ブロック（反転）",
+  "block.simplylight.illuminant_green_block_on.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_green_block_on.info2": "%sで消灯します。",
+
+  "block.simplylight.illuminant_light_blue_block": "淡青色発光ブロック",
+  "block.simplylight.illuminant_light_blue_block.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_light_blue_block.info2": "%sで点灯します。",
+
+  "block.simplylight.illuminant_light_blue_block_on": "淡青色発光ブロック（反転）",
+  "block.simplylight.illuminant_light_blue_block_on.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_light_blue_block_on.info2": "%sで消灯します。",
+
+  "block.simplylight.illuminant_light_gray_block": "淡灰色発光ブロック",
+  "block.simplylight.illuminant_light_gray_block.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_light_gray_block.info2": "%sで点灯します。",
+
+  "block.simplylight.illuminant_light_gray_block_on": "淡灰色発光ブロック（反転）",
+  "block.simplylight.illuminant_light_gray_block_on.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_light_gray_block_on.info2": "%sで消灯します。",
+
+  "block.simplylight.illuminant_lime_block": "ライム色発光ブロック",
+  "block.simplylight.illuminant_lime_block.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_lime_block.info2": "%sで点灯します。",
+
+  "block.simplylight.illuminant_lime_block_on": "ライム色発光ブロック（反転）",
+  "block.simplylight.illuminant_lime_block_on.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_lime_block_on.info2": "%sで消灯します。",
+
+  "block.simplylight.illuminant_magenta_block": "マゼンタ発光ブロック",
+  "block.simplylight.illuminant_magenta_block.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_magenta_block.info2": "%sで点灯します。",
+
+  "block.simplylight.illuminant_magenta_block_on": "マゼンタ発光ブロック（反転）",
+  "block.simplylight.illuminant_magenta_block_on.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_magenta_block_on.info2": "%sで消灯します。",
+
+  "block.simplylight.illuminant_orange_block": "オレンジ発光ブロック",
+  "block.simplylight.illuminant_orange_block.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_orange_block.info2": "%sで点灯します。",
+
+  "block.simplylight.illuminant_orange_block_on": "オレンジ発光ブロック（反転）",
+  "block.simplylight.illuminant_orange_block_on.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_orange_block_on.info2": "%sで消灯します。",
+
+  "block.simplylight.illuminant_panel": "発光パネル",
+  "block.simplylight.illuminant_panel.info": "シンプルなLED照明パネル、",
+  "block.simplylight.illuminant_panel.info2": "どの方向にも設置できます。",
+
+  "block.simplylight.illuminant_pink_block": "ピンク発光ブロック",
+  "block.simplylight.illuminant_pink_block.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_pink_block.info2": "%sで点灯します。",
+
+  "block.simplylight.illuminant_pink_block_on": "ピンク発光ブロック（反転）",
+  "block.simplylight.illuminant_pink_block_on.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_pink_block_on.info2": "%sで消灯します。",
+
+  "block.simplylight.illuminant_purple_block": "紫色発光ブロック",
+  "block.simplylight.illuminant_purple_block.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_purple_block.info2": "%sで点灯します。",
+
+  "block.simplylight.illuminant_purple_block_on": "紫色発光ブロック（反転）",
+  "block.simplylight.illuminant_purple_block_on.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_purple_block_on.info2": "%sで消灯します。",
+
+  "block.simplylight.illuminant_red_block": "赤色発光ブロック",
+  "block.simplylight.illuminant_red_block.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_red_block.info2": "%sで点灯します。",
+
+  "block.simplylight.illuminant_red_block_on": "赤色発光ブロック（反転）",
+  "block.simplylight.illuminant_red_block_on.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_red_block_on.info2": "%sで消灯します。",
+
+  "block.simplylight.illuminant_slab": "発光ハーフブロック",
+  "block.simplylight.illuminant_slab.info": "シンプルな照明ハーフブロック、",
+  "block.simplylight.illuminant_slab.info2": "どの方向にも設置可能。",
+
+  "block.simplylight.illuminant_yellow_block": "黄色発光ブロック",
+  "block.simplylight.illuminant_yellow_block.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_yellow_block.info2": "%sで点灯します。",
+
+  "block.simplylight.illuminant_yellow_block_on": "黄色発光ブロック（反転）",
+  "block.simplylight.illuminant_yellow_block_on.info": "シンプルな照明ブロック、",
+  "block.simplylight.illuminant_yellow_block_on.info2": "%sで消灯します。",
+
+  "block.simplylight.lamp_post": "照明ポール",
+  "block.simplylight.lamp_post.info": "高さ3ブロックの街灯ポール。",
+  "block.simplylight.lamp_post.info2": "最上部のブロックが光ります。",
+
+  "block.simplylight.lightbulb": "シンプル電球",
+  "block.simplylight.lightbulb.info": "シンプルな電球、",
+  "block.simplylight.lightbulb.info2": "どの方向にも設置できます。",
+
+  "block.simplylight.rodlamp": "ロッドライト",
+  "block.simplylight.rodlamp.info": "棒状のシンプルな照明、",
+  "block.simplylight.rodlamp.info2": "どの方向にも設置できます。",
+
+  "block.simplylight.wall_lamp": "壁掛けライト",
+  "block.simplylight.wall_lamp.info": "壁や天井、床に設置可能。",
+
+  "itemGroup.simplylight": "Simply Light",
+  "simplylight.key.shift": "Shift",
+  "simplylight.redstone": "レッドストーン",
+  "simplylight.shift": "<%s>キーを押して詳細表示"
+}
