@@ -1,0 +1,72 @@
+{
+	"tooltip.solcarrot.hearty.not_eaten": "まだ食べていません！どんな味でしょうか？",
+	"tooltip.solcarrot.hearty.eaten": "食べた：ハートの獲得に貢献しました",
+	"tooltip.solcarrot.cheap.eaten": "食べた：特に効果はありません",
+	"tooltip.solcarrot.cheap": "この食べ物は栄養が足りず、健康を改善できません。",
+	"tooltip.solcarrot.disabled.blacklist": "この食べ物はブラックリストに登録されているため、健康を改善できません。",
+	"tooltip.solcarrot.disabled.whitelist": "この食べ物はホワイトリストに登録されていないため、健康を改善できません。",
+	"tooltip.solcarrot.disabled.eaten": "食べた：特に効果はありません",
+
+	"command.solcarrot.foodlist.no_permissions": "他のプレイヤーに対してこのコマンドを実行する権限がありません！",
+
+	"command.solcarrot.foodlist.size.desc.foods_eaten.singular": "ユニークな食べ物を1種類食べました！",
+	"command.solcarrot.foodlist.size.desc.foods_eaten.plural": "ユニークな食べ物を%s種類食べました！",
+	"command.solcarrot.foodlist.size.desc.milestone.max": "残念ながら、これ以上新しい食べ物で健康を増やせません。",
+	"command.solcarrot.foodlist.size.desc.milestone.more": "最大体力を増やすにはあと%s必要です。",
+
+	"command.solcarrot.foodlist.clear.success": "食べ物リストをリセットしました！",
+
+	"command.solcarrot.foodlist.sync.success": "食べ物リストを同期しました！",
+
+	"message.solcarrot.chat_wrapper": "[SoL: Carrot] %s",
+	"message.solcarrot.hearts.singular": "ハート1個",
+	"message.solcarrot.hearts.plural": "ハート%s個",
+	"message.solcarrot.milestone_achieved": "ユニークな味です！%s獲得しました！",
+	"message.solcarrot.finished.chat": "ユニークな食べ物を求める欲求がついに満たされました。",
+	"message.solcarrot.finished.hotbar": "%sを獲得しました。ユニークな食べ物を求める欲求がついに満たされました。",
+
+	"item.solcarrot.food_book": "食べ物図鑑",
+
+	"gui.solcarrot.food_book.stats": "概要",
+	"gui.solcarrot.food_book.eaten_foods": "すでに味わった食べ物：%s",
+	"gui.solcarrot.food_book.uneaten_foods": "まだ試していない食べ物：%s",
+	"gui.solcarrot.food_book.config": "設定",
+
+	"gui.solcarrot.food_book.fraction": "%1$s/%2$s",
+
+	"gui.solcarrot.food_book.stats.foods_tasted": "味わった食べ物",
+	"gui.solcarrot.food_book.stats.hearts_gained": "獲得したハート",
+	"gui.solcarrot.food_book.stats.tooltip.progress": "次のマイルストーンまであと%s",
+	"gui.solcarrot.food_book.stats.tooltip.progress.max": "最高マイルストーンに到達！",
+	"gui.solcarrot.food_book.stats.tooltip.previous_milestone": "前回のマイルストーン：%s",
+	"gui.solcarrot.food_book.stats.tooltip.next_milestone": "次のマイルストーン：%s",
+	"gui.solcarrot.food_book.stats.tooltip.total_foods": "食べた食べ物の総数：%s",
+	"gui.solcarrot.food_book.stats.tooltip.foods_tasted": "味わった食べ物：%s",
+	"gui.solcarrot.food_book.stats.tooltip.hearts_per_milestone.singular": "マイルストーンごとにハート1個",
+	"gui.solcarrot.food_book.stats.tooltip.hearts_per_milestone.plural": "マイルストーンごとにハート%s個",
+
+	"gui.solcarrot.food_book.config.minimum_food_value": "最小食べ物値",
+	"gui.solcarrot.food_book.config.tooltip.minimum_food_value": "マイルストーンにカウントされるために食べ物が提供する最小の空腹値。",
+	"gui.solcarrot.food_book.config.hearty_fraction": "栄養価の高い食べ物",
+	"gui.solcarrot.food_book.config.tooltip.hearty_fraction": "%1$s種類のうち、%2$s種類が健康を改善するのに十分な栄養があります。",
+	"gui.solcarrot.food_book.config.eaten_cheap_foods": "味わった普通の食べ物",
+	"gui.solcarrot.food_book.config.tooltip.eaten_cheap_foods": "栄養が足りず健康を改善できない%1$s種類の食べ物のうち、%2$s種類を食べました。",
+	"gui.solcarrot.food_book.config.blacklist": "ブラックリストの食べ物",
+	"gui.solcarrot.food_book.config.whitelist": "ホワイトリストの食べ物",
+	"gui.solcarrot.food_book.config.tooltip.blacklist": "ブラックリストで無効化された食べ物の数。",
+	"gui.solcarrot.food_book.config.tooltip.whitelist": "ホワイトリストで許可された食べ物の数。",
+
+	"config.solcarrot.base_hearts": "基本ハート",
+	"config.solcarrot.hearts_per_milestone": "マイルストーンごとのハート",
+	"config.solcarrot.milestones": "マイルストーン",
+	"config.solcarrot.is_food_tooltip_enabled": "食べ物ツールチップを有効化",
+	"config.solcarrot.should_show_progress_above_hotbar": "ホットバー上に進行状況を表示",
+	"config.solcarrot.should_show_uneaten_foods": "未食の食べ物を表示",
+	"config.solcarrot.should_play_milestone_sounds": "マイルストーン音を有効化",
+	"config.solcarrot.should_spawn_intermediate_particles": "中間パーティクルを有効化",
+	"config.solcarrot.should_spawn_milestone_particles": "マイルストーンパーティクルを有効化",
+	"config.solcarrot.food_blacklist": "ブラックリスト",
+	"config.solcarrot.food_whitelist": "ホワイトリスト（ブラックリスト無効）",
+	"config.solcarrot.minimum_food_value": "最小食べ物値",
+	"config.solcarrot.reset_on_death": "死亡時にリセット"
+}

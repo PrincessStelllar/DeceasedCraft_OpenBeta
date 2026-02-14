@@ -1,0 +1,37 @@
+{
+	
+	"message.hordes.EventStart":"近くから、ゾンビの群れのうなりが聞こえる",
+	"message.hordes.EventEnd":"周囲は静まり返り、ゾンビの群れは去った",
+	"message.hordes.TrySleep":"差し迫る恐怖により、眠ることができない",
+	"message.hordes.title":"ゾンビの群れ",
+	
+	"hordes.subtitle.hordeHowls":"ゾンビの咆哮",
+	"hordes.subtitle.infected": "プレイヤーが感染",
+	"hordes.subtitle.immune": "感染を防いだ",
+
+	"entity.hordes.ZombiePlayer.chat":"%1$sのゾンビ",
+	"entity.hordes.DrownedPlayer.chat":"ドラウンド %1$s",
+	"entity.hordes.HuskPlayer.chat":"%1$sのハスク",
+	
+	"entity.hordes.ZombiePlayer.name":"ゾンビプレイヤー",
+	"entity.hordes.DrownedPlayer.name":"ドラウンドプレイヤー",
+	"entity.hordes.HuskPlayer.name":"ハスクプレイヤー",
+	
+	"entity.hordes.ZombifiedPiglinBrute.name":"ゾンビ化ピグリンブルート",
+	"entity.hordes.ZombieWanderingTrader.name":"ゾンビ行商人",
+	"entity.hordes.ZombiePillager.name":"ゾンビピリジャー",
+	"entity.hordes.ZombieVindicator.name":"ゾンビヴィンディケーター",
+	"entity.hordes.ZombieEvoker.name":"ゾンビエヴォーカー",
+	"entity.hordes.ZombieIllusioner.name":"ゾンビイリュージョナー",
+	"entity.hordes.ZombieWitch.name":"ゾンビウィッチ",
+
+	"effect.hordes.infected":"感染",
+	"effect.hordes.immunity":"感染耐性",
+	"death.attack.infection":"%1$sは感染により死亡した。",
+	"death.attack.infection.zombified":"%1$sはゾンビ化した。",
+
+	"tooltip.hordes.cure": "感染を治療する",
+	"tooltip.hordes.wearableProtection": "感染に対する%1$sの防護",
+
+	"jei.category.hordes.InfectionCures":"感染治療アイテム"
+}
